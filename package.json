@@ -16,8 +16,8 @@
     "pattern bank account number",
     "pattern citizen id"
   ],
-  "author": "Khemkones (https://github.com/khemkones)",
-  "license": "MIT",
+  "author": "khemkones (https://github.com/khemkones)",
+  "license": "ISC",
   "homepage": "https://github.com/khemkones/format-number.git#readme",
   "dependencies": {
     "jest": "^29.6.1"
