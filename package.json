@@ -1,0 +1,25 @@
+{
+  "name": "format-number",
+  "version": "1.0.0",
+  "description": "Create pattern string number",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -o ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khemkones/format-number.git"
+  },
+  "keywords": [
+    "pattern number",
+    "pattern phone number",
+    "pattern bank account number",
+    "pattern citizen id"
+  ],
+  "author": "Khemkones (https://github.com/khemkones)",
+  "license": "MIT",
+  "homepage": "https://github.com/khemkones/format-number.git#readme",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
