@@ -1,5 +1,5 @@
 {
-  "name": "format-number",
+  "name": "format-string-number",
   "version": "0.0.2",
   "description": "Create pattern string number",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khemkones/format-number.git"
+    "url": "git+https://github.com/khemkones/format-string-number.git"
   },
   "keywords": [
     "pattern number",
@@ -18,7 +18,7 @@
   ],
   "author": "khemkones (https://github.com/khemkones)",
   "license": "ISC",
-  "homepage": "https://github.com/khemkones/format-number.git#readme",
+  "homepage": "https://github.com/khemkones/format-string-number.git#readme",
   "dependencies": {
     "jest": "^29.6.1"
   }
