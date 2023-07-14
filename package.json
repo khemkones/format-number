@@ -20,7 +20,7 @@
   ],
   "author": "khemkones (https://github.com/khemkones)",
   "license": "ISC",
-  "homepage": "https://github.com/khemkones/format-string-number.git#readme",
+  "homepage": "https://github.com/khemkones/format-string-number#readme",
   "dependencies": {
     "jest": "^29.6.1"
   }
