@@ -10,16 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/khemkones/format-string-number.git"
   },
-  "keywords": [
-    "format-string-number",
-    "pattern number",
-    "pattern phone number",
-    "pattern bank account number",
-    "pattern citizen id",
-    "format-string-number npm"
-  ],
+  "keywords": [],
   "author": "khemkones (https://github.com/khemkones)",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/khemkones/format-string-number#readme",
   "dependencies": {
     "jest": "^29.6.1"
