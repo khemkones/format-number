@@ -9,6 +9,8 @@ $ npm install format-string-number --save
 ## Usage
 
 ```js
+const formatStringNumber = require('format-string-number')
+
 const phoneNumber = '08000000000';
 const patternPhoneNumber = 'XXX-XXX-XXXX'
 let formatted = formatStringNumber(phoneNumber, patternPhoneNumber)
